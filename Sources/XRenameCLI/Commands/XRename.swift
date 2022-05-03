@@ -9,7 +9,7 @@ import XRenameKit
 class XRename: Command {
 
     let name = "xrename"
-    let shortDescription = "rename command"
+    let shortDescription = "xcode project/workspace renamer."
 
     @Param
     var currentName: String
