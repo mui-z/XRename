@@ -1,5 +1,9 @@
 # XRename
 
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge)](https://github.com/apple/swift)
+[![LICENSE: MIT](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=flat-square)](https://github.com/mui-z/lace/blob/main/LICENSE)
+
+
 xcode project/workspace renamer.
 
 ## Description
