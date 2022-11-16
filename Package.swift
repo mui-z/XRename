@@ -13,6 +13,7 @@ let package = Package(
         .package(url: "https://github.com/onevcat/Rainbow", from: "4.0.1"),
         .package(url: "https://github.com/kylef/PathKit", from: "1.0.0"),
         .package(url: "https://github.com/jakeheis/SwiftCLI", from: "6.0.1"),
+        .package(url: "https://github.com/appculture/xcode-project-renamer", from: "0.1.5")
     ],
     targets: [
         .executableTarget(name: "XRename", dependencies: ["XRenameCLI"]),
