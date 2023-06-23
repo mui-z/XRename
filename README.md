@@ -9,7 +9,7 @@ Xcode project/workspace renamer.
 ## Description
 
 xcode project/workspace renamer.  
-This software is a command line tooled wrapper for [xcode-project-renamer](https://github.com/appculture/xcode-project-renamer). 
+This software is a command line tooled wrapper for [tadija/xcode-project-renamer](https://github.com/appculture/xcode-project-renamer). 
 
 ## Installation
 
