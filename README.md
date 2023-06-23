@@ -4,7 +4,7 @@
 [![LICENSE: MIT](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=flat-square)](https://github.com/mui-z/lace/blob/main/LICENSE)
 
 
-Xcode project/workspace renamer.
+Xcode project/workspace cli rename tool.
 
 ## Description
 
