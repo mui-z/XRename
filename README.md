@@ -21,4 +21,4 @@ This software is a command line tooled wrapper for [tadija/xcode-project-renamer
 
 ## License
 
-XRename is licensed under the MIT [License](LICENSE)
+XRename is licensed under the [MIT License](LICENSE)
